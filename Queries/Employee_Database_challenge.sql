@@ -1,4 +1,8 @@
 ---- DELIVERABLE 1 ----
+
+SELECT emp_no, first_name, last_name FROM employees;
+SELECT title, from_date, to_date FROM titles;
+
 -- Creating retirement_titles.csv
 SELECT e.emp_no,
 	e.first_name,
@@ -31,6 +35,7 @@ ORDER BY COUNT (ut.emp_no) DESC;
 
 
 ---- DELIVERABLE 2 ----
+-- Creating mentorship_eligibilty.csv 
 SELECT DISTINCT ON (e.emp_no) e.emp_no,
     e.first_name,
     e.last_name,
