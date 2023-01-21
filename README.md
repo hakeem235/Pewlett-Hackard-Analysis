@@ -7,7 +7,7 @@ One is to determine the number of employees retiring and their positions, and th
 
 ## Results
 
-The first table that determines the number of retiring employees and their position titles can be viewed here: [retiring_titles.csv](https://github.com/hakeem235/Pewlett-Hackard-Analysis/blob/main/Resources/Data/retirng_titles.csv)
+The first table that determines the number of retiring employees and their position titles can be viewed here: [retiring_titles.csv](https://github.com/hakeem235/Pewlett-Hackard-Analysis/blob/main/Resources/Data/retiring_titles.csv)
 
 The second table that identifies employee who are eligible for the mentorship program can be viewed here: [mentorship_eligibility.csv](https://github.com/hakeem235/Pewlett-Hackard-Analysis/blob/main/Resources/Data/mentorship_eligibilty.csv)
 
