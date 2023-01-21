@@ -24,6 +24,7 @@ SELECT DISTINCT ON (rt.emp_no) rt.emp_no,
 	rt.title
 INTO unique_titles
 FROM retirement_titles AS rt
+WHERE to_date = ('9999-01-01')
 ORDER BY rt.emp_no, rt.to_date DESC;
 
 -- Creating retiring_titles.csv
